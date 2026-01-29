@@ -1,0 +1,322 @@
+{
+  "global": {},
+  "typography": {},
+  "type/Mode 1": {
+    "font": {
+      "family": {
+        "$type": "text",
+        "$value": "PP Object Sans"
+      }
+    },
+    "weight": {
+      "Display": {
+        "$type": "text",
+        "$value": "Medium"
+      },
+      "Headline": {
+        "$type": "text",
+        "$value": "Regular"
+      },
+      "Title": {
+        "$type": "text",
+        "$value": "Medium"
+      },
+      "Label": {
+        "$type": "text",
+        "$value": "Medium"
+      },
+      "Body": {
+        "$type": "text",
+        "$value": "Regular"
+      },
+      "Caption": {
+        "$type": "text",
+        "$value": "Regular"
+      },
+      "Regular": {
+        "$type": "text",
+        "$value": "Regular"
+      },
+      "Medium": {
+        "$type": "text",
+        "$value": "Medium"
+      }
+    },
+    "leading": {
+      "neg-08": {
+        "$type": "number",
+        "$value": 8
+      },
+      "neg-07": {
+        "$type": "number",
+        "$value": 8
+      },
+      "neg-06": {
+        "$type": "number",
+        "$value": 12
+      },
+      "neg-05": {
+        "$type": "number",
+        "$value": 12
+      },
+      "neg-04": {
+        "$type": "number",
+        "$value": 12
+      },
+      "neg-03": {
+        "$type": "number",
+        "$value": 16
+      },
+      "neg-02": {
+        "$type": "number",
+        "$value": 16
+      },
+      "neg-01": {
+        "$type": "number",
+        "$value": 20
+      },
+      "base": {
+        "$type": "number",
+        "$value": 24
+      },
+      "pos-01": {
+        "$type": "number",
+        "$value": 28
+      },
+      "pos-02": {
+        "$type": "number",
+        "$value": 32
+      },
+      "pos-03": {
+        "$type": "number",
+        "$value": 36
+      },
+      "pos-04": {
+        "$type": "number",
+        "$value": 40
+      },
+      "pos-05": {
+        "$type": "number",
+        "$value": 44
+      },
+      "pos-06": {
+        "$type": "number",
+        "$value": 48
+      },
+      "pos-07": {
+        "$type": "number",
+        "$value": 52
+      },
+      "pos-08": {
+        "$type": "number",
+        "$value": 56
+      },
+      "pos-09": {
+        "$type": "number",
+        "$value": 60
+      },
+      "pos-10": {
+        "$type": "number",
+        "$value": 68
+      },
+      "pos-11": {
+        "$type": "number",
+        "$value": 76
+      },
+      "pos-12": {
+        "$type": "number",
+        "$value": 84
+      },
+      "pos-13": {
+        "$type": "number",
+        "$value": 96
+      },
+      "pos-14": {
+        "$type": "number",
+        "$value": 108
+      },
+      "pos-15": {
+        "$type": "number",
+        "$value": 120
+      },
+      "pos-16": {
+        "$type": "number",
+        "$value": 136
+      },
+      "pos-17": {
+        "$type": "number",
+        "$value": 152
+      },
+      "pos-18": {
+        "$type": "number",
+        "$value": 168
+      },
+      "pos-19": {
+        "$type": "number",
+        "$value": 192
+      },
+      "pos-20": {
+        "$type": "number",
+        "$value": 224
+      },
+      "pos-21": {
+        "$type": "number",
+        "$value": 248
+      },
+      "pos-22": {
+        "$type": "number",
+        "$value": 280
+      },
+      "pos-23": {
+        "$type": "number",
+        "$value": 320
+      },
+      "pos-24": {
+        "$type": "number",
+        "$value": 360
+      }
+    },
+    "scale": {
+      "neg-08": {
+        "$type": "number",
+        "$value": 6.23
+      },
+      "neg-07": {
+        "$type": "number",
+        "$value": 7.01
+      },
+      "neg-06": {
+        "$type": "number",
+        "$value": 7.89
+      },
+      "neg-05": {
+        "$type": "number",
+        "$value": 8.88
+      },
+      "neg-04": {
+        "$type": "number",
+        "$value": 9.99
+      },
+      "neg-03": {
+        "$type": "number",
+        "$value": 11.24
+      },
+      "neg-02": {
+        "$type": "number",
+        "$value": 12.64
+      },
+      "neg-01": {
+        "$type": "number",
+        "$value": 14.22
+      },
+      "base": {
+        "$type": "number",
+        "$value": 16
+      },
+      "pos-01": {
+        "$type": "number",
+        "$value": 18
+      },
+      "pos-02": {
+        "$type": "number",
+        "$value": 20.25
+      },
+      "pos-03": {
+        "$type": "number",
+        "$value": 22.78
+      },
+      "pos-04": {
+        "$type": "number",
+        "$value": 25.63
+      },
+      "pos-05": {
+        "$type": "number",
+        "$value": 28.83
+      },
+      "pos-06": {
+        "$type": "number",
+        "$value": 32.43
+      },
+      "pos-07": {
+        "$type": "number",
+        "$value": 36.48
+      },
+      "pos-08": {
+        "$type": "number",
+        "$value": 41.04
+      },
+      "pos-09": {
+        "$type": "number",
+        "$value": 46.17
+      },
+      "pos-10": {
+        "$type": "number",
+        "$value": 51.94
+      },
+      "pos-11": {
+        "$type": "number",
+        "$value": 58.43
+      },
+      "pos-12": {
+        "$type": "number",
+        "$value": 65.73
+      },
+      "pos-13": {
+        "$type": "number",
+        "$value": 73.95
+      },
+      "pos-14": {
+        "$type": "number",
+        "$value": 83.19
+      },
+      "pos-15": {
+        "$type": "number",
+        "$value": 93.59
+      },
+      "pos-16": {
+        "$type": "number",
+        "$value": 105.29
+      },
+      "pos-17": {
+        "$type": "number",
+        "$value": 118.45
+      },
+      "pos-18": {
+        "$type": "number",
+        "$value": 133.26
+      },
+      "pos-19": {
+        "$type": "number",
+        "$value": 149.92
+      },
+      "pos-20": {
+        "$type": "number",
+        "$value": 168.66
+      },
+      "pos-21": {
+        "$type": "number",
+        "$value": 189.74
+      },
+      "pos-22": {
+        "$type": "number",
+        "$value": 213.46
+      },
+      "pos-23": {
+        "$type": "number",
+        "$value": 240.14
+      },
+      "pos-24": {
+        "$type": "number",
+        "$value": 270.16
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "typography",
+      "type/Mode 1"
+    ]
+  }
+}
