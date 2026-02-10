@@ -1,0 +1,76 @@
+{
+  "font-family": {
+    "font-family": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "FONT_FAMILY"
+        ]
+      },
+      "$type": "text",
+      "$value": "{font.family}"
+    }
+  },
+  "font-weight": {
+    "Display": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "FONT_STYLE"
+        ]
+      },
+      "$type": "text",
+      "$value": "{weight.Medium}"
+    },
+    "Headline": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "FONT_STYLE"
+        ]
+      },
+      "$type": "text",
+      "$value": "{weight.Regular}"
+    },
+    "Title": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "FONT_STYLE"
+        ]
+      },
+      "$type": "text",
+      "$value": "{weight.Medium}"
+    },
+    "Label": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "FONT_STYLE"
+        ]
+      },
+      "$type": "text",
+      "$value": "{weight.Medium}"
+    },
+    "Body": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "FONT_STYLE"
+        ]
+      },
+      "$type": "text",
+      "$value": "{weight.Regular}"
+    },
+    "Caption": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "FONT_STYLE"
+        ]
+      },
+      "$type": "text",
+      "$value": "{weight.Regular}"
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "opacity-0": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "TEXT_CONTENT",
+        "EFFECT_FLOAT",
+        "OPACITY"
+      ]
+    },
+    "$type": "number",
+    "$value": 0
+  },
+  "opacity-1": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "TEXT_CONTENT",
+        "EFFECT_FLOAT",
+        "OPACITY"
+      ]
+    },
+    "$type": "number",
+    "$value": 8
+  },
+  "opacity-2": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "TEXT_CONTENT",
+        "EFFECT_FLOAT",
+        "OPACITY"
+      ]
+    },
+    "$type": "number",
+    "$value": 16
+  },
+  "opacity-3": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "TEXT_CONTENT",
+        "EFFECT_FLOAT",
+        "OPACITY"
+      ]
+    },
+    "$type": "number",
+    "$value": 24
+  },
+  "opacity-4": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "TEXT_CONTENT",
+        "EFFECT_FLOAT",
+        "OPACITY"
+      ]
+    },
+    "$type": "number",
+    "$value": 32
+  },
+  "opacity-5": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "TEXT_CONTENT",
+        "EFFECT_FLOAT",
+        "OPACITY"
+      ]
+    },
+    "$type": "number",
+    "$value": 40
+  },
+  "opacity-6": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "TEXT_CONTENT",
+        "EFFECT_FLOAT",
+        "OPACITY"
+      ]
+    },
+    "$type": "number",
+    "$value": 48
+  },
+  "opacity-7": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "TEXT_CONTENT",
+        "EFFECT_FLOAT",
+        "OPACITY"
+      ]
+    },
+    "$type": "number",
+    "$value": 56
+  },
+  "opacity-8": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "TEXT_CONTENT",
+        "EFFECT_FLOAT",
+        "OPACITY"
+      ]
+    },
+    "$type": "number",
+    "$value": 64
+  },
+  "opacity-9": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "TEXT_CONTENT",
+        "EFFECT_FLOAT",
+        "OPACITY"
+      ]
+    },
+    "$type": "number",
+    "$value": 72
+  },
+  "opacity-10": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "TEXT_CONTENT",
+        "EFFECT_FLOAT",
+        "OPACITY"
+      ]
+    },
+    "$type": "number",
+    "$value": 80
+  },
+  "opacity-100": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "TEXT_CONTENT",
+        "EFFECT_FLOAT",
+        "OPACITY"
+      ]
+    },
+    "$type": "number",
+    "$value": 100
+  },
+  "opacity-disabled": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "TEXT_CONTENT",
+        "EFFECT_FLOAT",
+        "OPACITY"
+      ]
+    },
+    "$type": "number",
+    "$value": "{opacity-6}"
+  },
+  "opacity-hover": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "TEXT_CONTENT",
+        "EFFECT_FLOAT",
+        "OPACITY"
+      ]
+    },
+    "$type": "number",
+    "$value": "{opacity-10}"
+  }
+}

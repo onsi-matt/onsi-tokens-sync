@@ -1,6 +1,15 @@
 {
   "tokenSetOrder": [
     "type/core",
-    "primitives/core"
+    "primitives/core",
+    "color/Light",
+    "color/Dark",
+    "type-styles/onsi",
+    "responsive/phone",
+    "responsive/tablet",
+    "responsive/laptop",
+    "responsive/desktop",
+    "dimensions/dimensions",
+    "opacity/opacity"
   ]
 }

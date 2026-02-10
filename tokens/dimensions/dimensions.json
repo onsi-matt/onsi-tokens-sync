@@ -1,0 +1,378 @@
+{
+  "size": {
+    "size-20": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "WIDTH_HEIGHT"
+        ]
+      },
+      "$type": "number",
+      "$value": 80
+    },
+    "size-19": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "WIDTH_HEIGHT"
+        ]
+      },
+      "$type": "number",
+      "$value": 76
+    },
+    "size-18": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "WIDTH_HEIGHT"
+        ]
+      },
+      "$type": "number",
+      "$value": 72
+    },
+    "size-17": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "WIDTH_HEIGHT"
+        ]
+      },
+      "$type": "number",
+      "$value": 68
+    },
+    "size-16": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "WIDTH_HEIGHT"
+        ]
+      },
+      "$type": "number",
+      "$value": 64
+    },
+    "size-15": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "WIDTH_HEIGHT"
+        ]
+      },
+      "$type": "number",
+      "$value": 60
+    },
+    "size-14": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "WIDTH_HEIGHT"
+        ]
+      },
+      "$type": "number",
+      "$value": 56
+    },
+    "size-13": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "WIDTH_HEIGHT"
+        ]
+      },
+      "$type": "number",
+      "$value": 52
+    },
+    "size-12": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "WIDTH_HEIGHT"
+        ]
+      },
+      "$type": "number",
+      "$value": 48
+    },
+    "size-11": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "WIDTH_HEIGHT"
+        ]
+      },
+      "$type": "number",
+      "$value": 44
+    },
+    "size-10": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "WIDTH_HEIGHT"
+        ]
+      },
+      "$type": "number",
+      "$value": 40
+    },
+    "size-9": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "WIDTH_HEIGHT"
+        ]
+      },
+      "$type": "number",
+      "$value": 36
+    },
+    "size-8": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "WIDTH_HEIGHT"
+        ]
+      },
+      "$type": "number",
+      "$value": 32
+    },
+    "size-7": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "WIDTH_HEIGHT"
+        ]
+      },
+      "$type": "number",
+      "$value": 28
+    },
+    "size-6": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "WIDTH_HEIGHT"
+        ]
+      },
+      "$type": "number",
+      "$value": 24
+    },
+    "size-5": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "WIDTH_HEIGHT"
+        ]
+      },
+      "$type": "number",
+      "$value": 20
+    },
+    "size-4": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "WIDTH_HEIGHT"
+        ]
+      },
+      "$type": "number",
+      "$value": 16
+    },
+    "size-3": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "WIDTH_HEIGHT"
+        ]
+      },
+      "$type": "number",
+      "$value": 12
+    },
+    "size-2": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "WIDTH_HEIGHT"
+        ]
+      },
+      "$type": "number",
+      "$value": 8
+    },
+    "size-1": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "WIDTH_HEIGHT"
+        ]
+      },
+      "$type": "number",
+      "$value": 4
+    },
+    "size-half": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "WIDTH_HEIGHT"
+        ]
+      },
+      "$type": "number",
+      "$value": 2
+    },
+    "size-0": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "WIDTH_HEIGHT"
+        ]
+      },
+      "$type": "number",
+      "$value": 0
+    }
+  },
+  "radii": {
+    "radii-100": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "CORNER_RADIUS"
+        ]
+      },
+      "$type": "number",
+      "$value": 1000
+    },
+    "radii-xl": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "CORNER_RADIUS"
+        ]
+      },
+      "$type": "number",
+      "$value": 16
+    },
+    "radii-lg": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "CORNER_RADIUS"
+        ]
+      },
+      "$type": "number",
+      "$value": 12
+    },
+    "radii-md": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "CORNER_RADIUS"
+        ]
+      },
+      "$type": "number",
+      "$value": 8
+    },
+    "radii-sm": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "CORNER_RADIUS"
+        ]
+      },
+      "$type": "number",
+      "$value": 4
+    },
+    "radii-xs": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "CORNER_RADIUS"
+        ]
+      },
+      "$type": "number",
+      "$value": 2
+    },
+    "radii-0": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "CORNER_RADIUS"
+        ]
+      },
+      "$type": "number",
+      "$value": 0
+    },
+    "radii-xxl": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "CORNER_RADIUS"
+        ]
+      },
+      "$type": "number",
+      "$value": 24
+    },
+    "radii-xxxl": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "CORNER_RADIUS"
+        ]
+      },
+      "$type": "number",
+      "$value": 32
+    },
+    "radii-xxxxl": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "CORNER_RADIUS"
+        ]
+      },
+      "$type": "number",
+      "$value": 40
+    }
+  },
+  "border": {
+    "border-0": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "STROKE_FLOAT"
+        ]
+      },
+      "$type": "number",
+      "$value": 0.001
+    },
+    "border-1": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "STROKE_FLOAT"
+        ]
+      },
+      "$type": "number",
+      "$value": 1
+    },
+    "border-2": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "STROKE_FLOAT"
+        ]
+      },
+      "$type": "number",
+      "$value": 2
+    },
+    "border-4": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "STROKE_FLOAT"
+        ]
+      },
+      "$type": "number",
+      "$value": 4
+    },
+    "border-8": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "TEXT_CONTENT",
+          "STROKE_FLOAT"
+        ]
+      },
+      "$type": "number",
+      "$value": 8
+    }
+  }
+}
