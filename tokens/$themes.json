@@ -646,5 +646,22 @@
     },
     "$figmaModeId": "12362:0",
     "$figmaCollectionId": "VariableCollectionId:12362:6743"
+  },
+  {
+    "id": "1aa240d1d5d011201ebb74f689094380bc23b88d",
+    "name": "light-mode",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "color/Light": "enabled"
+    },
+    "group": "color"
+  },
+  {
+    "id": "fa3246b923dd7442dfa5658ebae93fd52341206f",
+    "name": "dark-mode",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "color/Dark": "enabled"
+    }
   }
 ]
