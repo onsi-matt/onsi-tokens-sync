@@ -276,7 +276,6 @@
     "id": "color-light",
     "name": "light",
     "selectedTokenSets": {
-      "mode/Light": "enabled",
       "type/core": "source",
       "primitives/core": "source",
       "type-styles/onsi": "enabled",
@@ -285,7 +284,8 @@
       "responsive/laptop": "enabled",
       "responsive/desktop": "enabled",
       "dimensions/dimensions": "enabled",
-      "opacity/opacity": "enabled"
+      "opacity/opacity": "enabled",
+      "mode/light": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -332,7 +332,6 @@
     "id": "color-dark",
     "name": "dark",
     "selectedTokenSets": {
-      "mode/Dark": "enabled",
       "type/core": "source",
       "primitives/core": "source",
       "type-styles/onsi": "enabled",
@@ -341,7 +340,8 @@
       "responsive/laptop": "enabled",
       "responsive/desktop": "enabled",
       "dimensions/dimensions": "enabled",
-      "opacity/opacity": "enabled"
+      "opacity/opacity": "enabled",
+      "mode/dark": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -670,7 +670,7 @@
     "name": "dark-mode",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/Dark": "enabled"
+      "mode/dark": "enabled"
     }
   }
 ]
