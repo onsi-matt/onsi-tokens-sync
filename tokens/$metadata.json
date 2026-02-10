@@ -1,5 +1,6 @@
 {
   "tokenSetOrder": [
-    "type/core"
+    "type/core",
+    "primitives/core"
   ]
 }
