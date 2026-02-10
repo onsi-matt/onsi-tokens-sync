@@ -2,8 +2,8 @@
   "tokenSetOrder": [
     "type/core",
     "primitives/core",
-    "color/Light",
-    "color/Dark",
+    "mode/Light",
+    "mode/Dark",
     "type-styles/onsi",
     "responsive/phone",
     "responsive/tablet",

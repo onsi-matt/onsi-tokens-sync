@@ -274,10 +274,18 @@
   },
   {
     "id": "color-light",
-    "name": "Light",
-    "group": "color",
+    "name": "light",
     "selectedTokenSets": {
-      "color/Light": "enabled"
+      "mode/Light": "enabled",
+      "type/core": "source",
+      "primitives/core": "source",
+      "type-styles/onsi": "enabled",
+      "responsive/phone": "enabled",
+      "responsive/tablet": "enabled",
+      "responsive/laptop": "enabled",
+      "responsive/desktop": "enabled",
+      "dimensions/dimensions": "enabled",
+      "opacity/opacity": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -317,14 +325,23 @@
       "content.on-onsi-tertiary": "9edc0411c28c956a0fb0d8fabe7b03bcf3212f69"
     },
     "$figmaModeId": "5809:3",
-    "$figmaCollectionId": "VariableCollectionId:5809:58544"
+    "$figmaCollectionId": "VariableCollectionId:5809:58544",
+    "group": "color"
   },
   {
     "id": "color-dark",
-    "name": "Dark",
-    "group": "color",
+    "name": "dark",
     "selectedTokenSets": {
-      "color/Dark": "enabled"
+      "mode/Dark": "enabled",
+      "type/core": "source",
+      "primitives/core": "source",
+      "type-styles/onsi": "enabled",
+      "responsive/phone": "enabled",
+      "responsive/tablet": "enabled",
+      "responsive/laptop": "enabled",
+      "responsive/desktop": "enabled",
+      "dimensions/dimensions": "enabled",
+      "opacity/opacity": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -364,7 +381,8 @@
       "content.on-onsi-tertiary": "9edc0411c28c956a0fb0d8fabe7b03bcf3212f69"
     },
     "$figmaModeId": "5809:5",
-    "$figmaCollectionId": "VariableCollectionId:5809:58544"
+    "$figmaCollectionId": "VariableCollectionId:5809:58544",
+    "group": "color"
   },
   {
     "id": "dimensions-dimensions",
@@ -648,20 +666,11 @@
     "$figmaCollectionId": "VariableCollectionId:12362:6743"
   },
   {
-    "id": "1aa240d1d5d011201ebb74f689094380bc23b88d",
-    "name": "light-mode",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "color/Light": "enabled"
-    },
-    "group": "color"
-  },
-  {
     "id": "fa3246b923dd7442dfa5658ebae93fd52341206f",
     "name": "dark-mode",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "color/Dark": "enabled"
+      "mode/Dark": "enabled"
     }
   }
 ]
