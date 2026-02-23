@@ -3,7 +3,7 @@
     "id": "mode-light",
     "name": "light",
     "selectedTokenSets": {
-      "mode/light": "enabled"
+      "onsi/light": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -51,7 +51,7 @@
     "name": "dark",
     "group": "mode",
     "selectedTokenSets": {
-      "mode/dark": "enabled"
+      "onsi/dark": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
