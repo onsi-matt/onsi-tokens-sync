@@ -4,6 +4,8 @@
     "primitives/core",
     "onsi/light",
     "onsi/dark",
+    "zurich/Light",
+    "zurich/Dark",
     "type-styles/onsi",
     "responsive/phone",
     "responsive/tablet",

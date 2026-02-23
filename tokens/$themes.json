@@ -1,102 +1,7 @@
 [
   {
-    "id": "mode-light",
-    "name": "light",
-    "selectedTokenSets": {
-      "onsi/light": "enabled"
-    },
-    "$figmaStyleReferences": {},
-    "$figmaVariableReferences": {
-      "surface.default": "59a4d082eaa7f3c6ff667a883d8c8f33cd218019",
-      "content.default": "05ede69c6d4b80d75c5559bc064cfacf359b17ef",
-      "brand.partner-primary": "41f6b514404836ab5e3332f11167a9cf860f0474",
-      "brand.partner-secondary": "929b173984128d024836a4bb2dd065162ee01872",
-      "state.focus": "853a49ebe941f3a2f1578a776853a71b24d5863b",
-      "state.critical": "d4ddcdcbe319462f75c74888f321a57aec9ed4aa",
-      "state.warning": "a85b37a55e678301a23850cf5f1f6286755e2ab2",
-      "state.success": "f5cc747ee9bf77a2ba7ccd080fd16892e3ced28f",
-      "state.highlight": "8598be7525cd952749c3424e3d09b890ab182733",
-      "surface.disabled": "9a40d96d3ed1317704235cd28b3efe20dca7b877",
-      "surface.subdued": "4169520fd5ccf1f13fb1961761fbd54baba17c6a",
-      "content.inverse": "bc166ae3b094d102eebcb6bab1094e0c0c1a4e6d",
-      "brand.onsi-primary": "39f1e3808ff65eb2b90813390be4bed5995e7341",
-      "brand.onsi-secondary": "ada77c23fd9631c3d081f42d0bdaeb7e278f486a",
-      "surface.inverse": "6f50bd3d93f70823ddbc99ce43cb123188c85688",
-      "content.on-primary": "da254665e5987de725afb39f193f86cd76018330",
-      "content.on-secondary": "6864fcd40d15fc9293930c55e5a236e220426993",
-      "surface.background": "e1a27100c73ff174078a12ad773f403d08294cd6",
-      "content.on-state": "eba571b973d56af26a39a21b354de1643616dd67",
-      "surface.backdrop": "db65b878bd61ca252c638aa8df997ec0a2961abe",
-      "border.default": "d0548a00226c2252100cf3030de01951f421cbcd",
-      "border.disabled": "4c5f6bd12aa8bbba8bdc1c44216cbdc97051289f",
-      "border.subdued": "bfc095501cba501f7e6ee4c402a6f21d3497f70f",
-      "content.subdued": "6360cd58b731dbbe3abe43ee8529ff6be4762036",
-      "brand.onsi-tertiary": "7b9f98bdee620fc2a37498bb108dadb9bf6dfb5c",
-      "brand.partner-tertiary": "293c434c751010a98ec0fe1cc35498d0820017f8",
-      "content.on-tertiary": "85664369940acda481edb47fb36913c35f06b7c1",
-      "static.black": "9d787de3d75c5bf581d335d0bf502a19683d6e1c",
-      "static.white": "cb6c85ce41ecca7853e171154487e86d6cb9784a",
-      "content.error": "e107210f897542800f09b2f069c002e8c229f43d",
-      "content.success": "5d3f33ec6c3b1b097972967b9798e8a551fd6038",
-      "content.on-onsi-primary": "4f3bd579e805232f544d49b4b384e755f86dd517",
-      "content.on-onsi-secondary": "231bc1325ffcd388914a258136d94a36a8e2b2fb",
-      "content.on-onsi-tertiary": "9edc0411c28c956a0fb0d8fabe7b03bcf3212f69"
-    },
-    "$figmaModeId": "5809:3",
-    "$figmaCollectionId": "VariableCollectionId:5809:58544",
-    "group": "mode"
-  },
-  {
-    "id": "mode-dark",
-    "name": "dark",
-    "group": "mode",
-    "selectedTokenSets": {
-      "onsi/dark": "enabled"
-    },
-    "$figmaStyleReferences": {},
-    "$figmaVariableReferences": {
-      "surface.default": "59a4d082eaa7f3c6ff667a883d8c8f33cd218019",
-      "content.default": "05ede69c6d4b80d75c5559bc064cfacf359b17ef",
-      "brand.partner-primary": "41f6b514404836ab5e3332f11167a9cf860f0474",
-      "brand.partner-secondary": "929b173984128d024836a4bb2dd065162ee01872",
-      "state.focus": "853a49ebe941f3a2f1578a776853a71b24d5863b",
-      "state.critical": "d4ddcdcbe319462f75c74888f321a57aec9ed4aa",
-      "state.warning": "a85b37a55e678301a23850cf5f1f6286755e2ab2",
-      "state.success": "f5cc747ee9bf77a2ba7ccd080fd16892e3ced28f",
-      "state.highlight": "8598be7525cd952749c3424e3d09b890ab182733",
-      "surface.disabled": "9a40d96d3ed1317704235cd28b3efe20dca7b877",
-      "surface.subdued": "4169520fd5ccf1f13fb1961761fbd54baba17c6a",
-      "content.inverse": "bc166ae3b094d102eebcb6bab1094e0c0c1a4e6d",
-      "brand.onsi-primary": "39f1e3808ff65eb2b90813390be4bed5995e7341",
-      "brand.onsi-secondary": "ada77c23fd9631c3d081f42d0bdaeb7e278f486a",
-      "surface.inverse": "6f50bd3d93f70823ddbc99ce43cb123188c85688",
-      "content.on-primary": "da254665e5987de725afb39f193f86cd76018330",
-      "content.on-secondary": "6864fcd40d15fc9293930c55e5a236e220426993",
-      "surface.background": "e1a27100c73ff174078a12ad773f403d08294cd6",
-      "content.on-state": "eba571b973d56af26a39a21b354de1643616dd67",
-      "surface.backdrop": "db65b878bd61ca252c638aa8df997ec0a2961abe",
-      "border.default": "d0548a00226c2252100cf3030de01951f421cbcd",
-      "border.disabled": "4c5f6bd12aa8bbba8bdc1c44216cbdc97051289f",
-      "border.subdued": "bfc095501cba501f7e6ee4c402a6f21d3497f70f",
-      "content.subdued": "6360cd58b731dbbe3abe43ee8529ff6be4762036",
-      "brand.onsi-tertiary": "7b9f98bdee620fc2a37498bb108dadb9bf6dfb5c",
-      "brand.partner-tertiary": "293c434c751010a98ec0fe1cc35498d0820017f8",
-      "content.on-tertiary": "85664369940acda481edb47fb36913c35f06b7c1",
-      "static.black": "9d787de3d75c5bf581d335d0bf502a19683d6e1c",
-      "static.white": "cb6c85ce41ecca7853e171154487e86d6cb9784a",
-      "content.error": "e107210f897542800f09b2f069c002e8c229f43d",
-      "content.success": "5d3f33ec6c3b1b097972967b9798e8a551fd6038",
-      "content.on-onsi-primary": "4f3bd579e805232f544d49b4b384e755f86dd517",
-      "content.on-onsi-secondary": "231bc1325ffcd388914a258136d94a36a8e2b2fb",
-      "content.on-onsi-tertiary": "9edc0411c28c956a0fb0d8fabe7b03bcf3212f69"
-    },
-    "$figmaModeId": "5809:5",
-    "$figmaCollectionId": "VariableCollectionId:5809:58544"
-  },
-  {
     "id": "responsive-phone",
     "name": "phone",
-    "group": "responsive",
     "selectedTokenSets": {
       "responsive/phone": "enabled"
     },
@@ -137,12 +42,12 @@
       "grid.breakpoint": "2a4e6288f8c46edc6318edd90a3af8963996fcdf"
     },
     "$figmaModeId": "12304:1",
-    "$figmaCollectionId": "VariableCollectionId:10291:863"
+    "$figmaCollectionId": "VariableCollectionId:10291:863",
+    "group": "responsive"
   },
   {
     "id": "responsive-tablet",
     "name": "tablet",
-    "group": "responsive",
     "selectedTokenSets": {
       "responsive/tablet": "enabled"
     },
@@ -183,12 +88,12 @@
       "grid.breakpoint": "2a4e6288f8c46edc6318edd90a3af8963996fcdf"
     },
     "$figmaModeId": "12304:2",
-    "$figmaCollectionId": "VariableCollectionId:10291:863"
+    "$figmaCollectionId": "VariableCollectionId:10291:863",
+    "group": "responsive"
   },
   {
     "id": "responsive-laptop",
     "name": "laptop",
-    "group": "responsive",
     "selectedTokenSets": {
       "responsive/laptop": "enabled"
     },
@@ -229,12 +134,12 @@
       "grid.breakpoint": "2a4e6288f8c46edc6318edd90a3af8963996fcdf"
     },
     "$figmaModeId": "12304:3",
-    "$figmaCollectionId": "VariableCollectionId:10291:863"
+    "$figmaCollectionId": "VariableCollectionId:10291:863",
+    "group": "responsive"
   },
   {
     "id": "responsive-desktop",
     "name": "desktop",
-    "group": "responsive",
     "selectedTokenSets": {
       "responsive/desktop": "enabled"
     },
@@ -275,12 +180,12 @@
       "grid.breakpoint": "2a4e6288f8c46edc6318edd90a3af8963996fcdf"
     },
     "$figmaModeId": "12306:5",
-    "$figmaCollectionId": "VariableCollectionId:10291:863"
+    "$figmaCollectionId": "VariableCollectionId:10291:863",
+    "group": "responsive"
   },
   {
     "id": "type-styles-onsi",
     "name": "onsi",
-    "group": "type-styles",
     "selectedTokenSets": {
       "type-styles/onsi": "enabled"
     },
@@ -295,6 +200,57 @@
       "font-weight.Caption": "64982d67065ecff7d2d600a022efd6f4b44ccba3"
     },
     "$figmaModeId": "12362:0",
-    "$figmaCollectionId": "VariableCollectionId:12362:6743"
+    "$figmaCollectionId": "VariableCollectionId:12362:6743",
+    "group": "type-styles"
+  },
+  {
+    "id": "a9c78d3bfdab85829780dd2763641a2c0d89a131",
+    "name": "onsi-light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "type/core": "source",
+      "onsi/light": "enabled",
+      "primitives/core": "source",
+      "type-styles/onsi": "enabled"
+    },
+    "group": "themes"
+  },
+  {
+    "id": "04d8ce5299056d090a8dd80f670f65f5bced2165",
+    "name": "onsi-dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "type/core": "source",
+      "primitives/core": "source",
+      "type-styles/onsi": "enabled",
+      "onsi/dark": "enabled"
+    },
+    "group": "themes"
+  },
+  {
+    "id": "6c678c0d633452fc92eb2a3ff2cb988d5aaf1c30",
+    "name": "zurich-light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "type/core": "source",
+      "primitives/core": "source",
+      "zurich/Light": "enabled",
+      "type-styles/onsi": "enabled",
+      "onsi/light": "enabled"
+    },
+    "group": "themes"
+  },
+  {
+    "id": "4e13693c19ee2267435b5bbef3c479026820b793",
+    "name": "zurich-dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "type/core": "source",
+      "primitives/core": "source",
+      "onsi/dark": "enabled",
+      "zurich/Dark": "enabled",
+      "type-styles/onsi": "enabled"
+    },
+    "group": "themes"
   }
 ]
