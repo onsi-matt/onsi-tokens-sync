@@ -1,209 +1,5 @@
 [
   {
-    "id": "responsive-phone",
-    "name": "phone",
-    "selectedTokenSets": {
-      "responsive/phone": "enabled"
-    },
-    "$figmaStyleReferences": {},
-    "$figmaVariableReferences": {
-      "font-size.display": "3d90a794e4c8be9f8a8964e65c8c874bad21fa36",
-      "font-size.headline": "2a2fd5e28e28c724714064f0b382fe200fdf7347",
-      "font-size.title": "b0fe2164170bb005058d2aec1714edc9f194315a",
-      "font-size.label": "f1860d9bd2082431a193984710b12f998a82dd6c",
-      "font-size.body": "c479534af939207ea2c62f668ad1c352e81dc352",
-      "font-size.caption": "4d4bff49ae72c296f144afd654d936db87365e0b",
-      "line-height.display": "fff6baf1a8c57af48c5c98b6e0bd5718f2888296",
-      "line-height.headline": "1b11fc64d30b9b239a2d124c4d55671f0ae71608",
-      "line-height.title": "ec165fab7367d385c12652887ed93274e9804102",
-      "line-height.label": "8b7521f858045b42afe8131c02a0af8dd6373c73",
-      "line-height.body": "b12354f596fd74e722715d0fbfb57b12d5bcdf76",
-      "line-height.caption": "476777f1a6a180a9e312ebe2900003d2b80fd699",
-      "icon-size.icon-sm": "5e5d4874984303783da501311f4dd8732ba1c465",
-      "icon-size.icon-md": "a49485865c030d84d29892370d45d294708aaf7d",
-      "icon-size.icon-lg": "d95628d86c0dd7e25bacbd0b94a0ad5009e2bde9",
-      "icon-size.icon-xl": "1c69f73302c8e3c1c9705fa2948746d596d4fdab",
-      "icon-size.icon-xxl": "d5501e6f8fee88068dd4f497c04b99f34d7851be",
-      "icon-size.icon-xxxl": "c8c5f5ec306391d191f30b88f356cc20510bb4c3",
-      "icon-size.icon-xxxxl": "e9819c6d7115b67b240d1685cfc5f7ade92efef0",
-      "icon-size.icon-xxxxxl": "dae7fa38fbb1d283f7233597a5ce50f0286c0b2b",
-      "spaces.space-sm": "88851d2f326c14a18ba0e48ab990eaa04a19d87f",
-      "spaces.space-md": "5acd0a77566877ab4979ac9c7d4a6921e3b82dc8",
-      "spaces.space-lg": "f7fe4d103917e973e5b12ce8d66b7a92af95c6ec",
-      "spaces.space-xl": "470fa05993034b2c54776d6c0184046edbcdd99d",
-      "spaces.space-xxl": "e3823673152747707f784275cc2ab3a4286e9126",
-      "spaces.space-xxxl": "45a646084b5530f8baa35d808352e64de70792bc",
-      "grid.breakpoint-size": "027f9ac89cf292d0f7991a29edb61a1666684c35",
-      "grid.columns": "e04f0b0c098e0ef233fdcf35c0bc88b99c252ad1",
-      "grid.gutters": "18235adf47fe8265339506b753369da6807154a3",
-      "grid.margins": "db813fe8ec479886805949e6d8248de3bcc07f87",
-      "spaces.space-xxs": "895936216ff563619381fc1f09487a5af4a4e979",
-      "spaces.space-xs": "41e820fa77090eed3fd5ed717285da9124db2eb1",
-      "grid.breakpoint": "2a4e6288f8c46edc6318edd90a3af8963996fcdf"
-    },
-    "$figmaModeId": "12304:1",
-    "$figmaCollectionId": "VariableCollectionId:10291:863",
-    "group": "responsive"
-  },
-  {
-    "id": "responsive-tablet",
-    "name": "tablet",
-    "selectedTokenSets": {
-      "responsive/tablet": "enabled"
-    },
-    "$figmaStyleReferences": {},
-    "$figmaVariableReferences": {
-      "font-size.display": "3d90a794e4c8be9f8a8964e65c8c874bad21fa36",
-      "font-size.headline": "2a2fd5e28e28c724714064f0b382fe200fdf7347",
-      "font-size.title": "b0fe2164170bb005058d2aec1714edc9f194315a",
-      "font-size.label": "f1860d9bd2082431a193984710b12f998a82dd6c",
-      "font-size.body": "c479534af939207ea2c62f668ad1c352e81dc352",
-      "font-size.caption": "4d4bff49ae72c296f144afd654d936db87365e0b",
-      "line-height.display": "fff6baf1a8c57af48c5c98b6e0bd5718f2888296",
-      "line-height.headline": "1b11fc64d30b9b239a2d124c4d55671f0ae71608",
-      "line-height.title": "ec165fab7367d385c12652887ed93274e9804102",
-      "line-height.label": "8b7521f858045b42afe8131c02a0af8dd6373c73",
-      "line-height.body": "b12354f596fd74e722715d0fbfb57b12d5bcdf76",
-      "line-height.caption": "476777f1a6a180a9e312ebe2900003d2b80fd699",
-      "icon-size.icon-sm": "5e5d4874984303783da501311f4dd8732ba1c465",
-      "icon-size.icon-md": "a49485865c030d84d29892370d45d294708aaf7d",
-      "icon-size.icon-lg": "d95628d86c0dd7e25bacbd0b94a0ad5009e2bde9",
-      "icon-size.icon-xl": "1c69f73302c8e3c1c9705fa2948746d596d4fdab",
-      "icon-size.icon-xxl": "d5501e6f8fee88068dd4f497c04b99f34d7851be",
-      "icon-size.icon-xxxl": "c8c5f5ec306391d191f30b88f356cc20510bb4c3",
-      "icon-size.icon-xxxxl": "e9819c6d7115b67b240d1685cfc5f7ade92efef0",
-      "icon-size.icon-xxxxxl": "dae7fa38fbb1d283f7233597a5ce50f0286c0b2b",
-      "spaces.space-sm": "88851d2f326c14a18ba0e48ab990eaa04a19d87f",
-      "spaces.space-md": "5acd0a77566877ab4979ac9c7d4a6921e3b82dc8",
-      "spaces.space-lg": "f7fe4d103917e973e5b12ce8d66b7a92af95c6ec",
-      "spaces.space-xl": "470fa05993034b2c54776d6c0184046edbcdd99d",
-      "spaces.space-xxl": "e3823673152747707f784275cc2ab3a4286e9126",
-      "spaces.space-xxxl": "45a646084b5530f8baa35d808352e64de70792bc",
-      "grid.breakpoint-size": "027f9ac89cf292d0f7991a29edb61a1666684c35",
-      "grid.columns": "e04f0b0c098e0ef233fdcf35c0bc88b99c252ad1",
-      "grid.gutters": "18235adf47fe8265339506b753369da6807154a3",
-      "grid.margins": "db813fe8ec479886805949e6d8248de3bcc07f87",
-      "spaces.space-xxs": "895936216ff563619381fc1f09487a5af4a4e979",
-      "spaces.space-xs": "41e820fa77090eed3fd5ed717285da9124db2eb1",
-      "grid.breakpoint": "2a4e6288f8c46edc6318edd90a3af8963996fcdf"
-    },
-    "$figmaModeId": "12304:2",
-    "$figmaCollectionId": "VariableCollectionId:10291:863",
-    "group": "responsive"
-  },
-  {
-    "id": "responsive-laptop",
-    "name": "laptop",
-    "selectedTokenSets": {
-      "responsive/laptop": "enabled"
-    },
-    "$figmaStyleReferences": {},
-    "$figmaVariableReferences": {
-      "font-size.display": "3d90a794e4c8be9f8a8964e65c8c874bad21fa36",
-      "font-size.headline": "2a2fd5e28e28c724714064f0b382fe200fdf7347",
-      "font-size.title": "b0fe2164170bb005058d2aec1714edc9f194315a",
-      "font-size.label": "f1860d9bd2082431a193984710b12f998a82dd6c",
-      "font-size.body": "c479534af939207ea2c62f668ad1c352e81dc352",
-      "font-size.caption": "4d4bff49ae72c296f144afd654d936db87365e0b",
-      "line-height.display": "fff6baf1a8c57af48c5c98b6e0bd5718f2888296",
-      "line-height.headline": "1b11fc64d30b9b239a2d124c4d55671f0ae71608",
-      "line-height.title": "ec165fab7367d385c12652887ed93274e9804102",
-      "line-height.label": "8b7521f858045b42afe8131c02a0af8dd6373c73",
-      "line-height.body": "b12354f596fd74e722715d0fbfb57b12d5bcdf76",
-      "line-height.caption": "476777f1a6a180a9e312ebe2900003d2b80fd699",
-      "icon-size.icon-sm": "5e5d4874984303783da501311f4dd8732ba1c465",
-      "icon-size.icon-md": "a49485865c030d84d29892370d45d294708aaf7d",
-      "icon-size.icon-lg": "d95628d86c0dd7e25bacbd0b94a0ad5009e2bde9",
-      "icon-size.icon-xl": "1c69f73302c8e3c1c9705fa2948746d596d4fdab",
-      "icon-size.icon-xxl": "d5501e6f8fee88068dd4f497c04b99f34d7851be",
-      "icon-size.icon-xxxl": "c8c5f5ec306391d191f30b88f356cc20510bb4c3",
-      "icon-size.icon-xxxxl": "e9819c6d7115b67b240d1685cfc5f7ade92efef0",
-      "icon-size.icon-xxxxxl": "dae7fa38fbb1d283f7233597a5ce50f0286c0b2b",
-      "spaces.space-sm": "88851d2f326c14a18ba0e48ab990eaa04a19d87f",
-      "spaces.space-md": "5acd0a77566877ab4979ac9c7d4a6921e3b82dc8",
-      "spaces.space-lg": "f7fe4d103917e973e5b12ce8d66b7a92af95c6ec",
-      "spaces.space-xl": "470fa05993034b2c54776d6c0184046edbcdd99d",
-      "spaces.space-xxl": "e3823673152747707f784275cc2ab3a4286e9126",
-      "spaces.space-xxxl": "45a646084b5530f8baa35d808352e64de70792bc",
-      "grid.breakpoint-size": "027f9ac89cf292d0f7991a29edb61a1666684c35",
-      "grid.columns": "e04f0b0c098e0ef233fdcf35c0bc88b99c252ad1",
-      "grid.gutters": "18235adf47fe8265339506b753369da6807154a3",
-      "grid.margins": "db813fe8ec479886805949e6d8248de3bcc07f87",
-      "spaces.space-xxs": "895936216ff563619381fc1f09487a5af4a4e979",
-      "spaces.space-xs": "41e820fa77090eed3fd5ed717285da9124db2eb1",
-      "grid.breakpoint": "2a4e6288f8c46edc6318edd90a3af8963996fcdf"
-    },
-    "$figmaModeId": "12304:3",
-    "$figmaCollectionId": "VariableCollectionId:10291:863",
-    "group": "responsive"
-  },
-  {
-    "id": "responsive-desktop",
-    "name": "desktop",
-    "selectedTokenSets": {
-      "responsive/desktop": "enabled"
-    },
-    "$figmaStyleReferences": {},
-    "$figmaVariableReferences": {
-      "font-size.display": "3d90a794e4c8be9f8a8964e65c8c874bad21fa36",
-      "font-size.headline": "2a2fd5e28e28c724714064f0b382fe200fdf7347",
-      "font-size.title": "b0fe2164170bb005058d2aec1714edc9f194315a",
-      "font-size.label": "f1860d9bd2082431a193984710b12f998a82dd6c",
-      "font-size.body": "c479534af939207ea2c62f668ad1c352e81dc352",
-      "font-size.caption": "4d4bff49ae72c296f144afd654d936db87365e0b",
-      "line-height.display": "fff6baf1a8c57af48c5c98b6e0bd5718f2888296",
-      "line-height.headline": "1b11fc64d30b9b239a2d124c4d55671f0ae71608",
-      "line-height.title": "ec165fab7367d385c12652887ed93274e9804102",
-      "line-height.label": "8b7521f858045b42afe8131c02a0af8dd6373c73",
-      "line-height.body": "b12354f596fd74e722715d0fbfb57b12d5bcdf76",
-      "line-height.caption": "476777f1a6a180a9e312ebe2900003d2b80fd699",
-      "icon-size.icon-sm": "5e5d4874984303783da501311f4dd8732ba1c465",
-      "icon-size.icon-md": "a49485865c030d84d29892370d45d294708aaf7d",
-      "icon-size.icon-lg": "d95628d86c0dd7e25bacbd0b94a0ad5009e2bde9",
-      "icon-size.icon-xl": "1c69f73302c8e3c1c9705fa2948746d596d4fdab",
-      "icon-size.icon-xxl": "d5501e6f8fee88068dd4f497c04b99f34d7851be",
-      "icon-size.icon-xxxl": "c8c5f5ec306391d191f30b88f356cc20510bb4c3",
-      "icon-size.icon-xxxxl": "e9819c6d7115b67b240d1685cfc5f7ade92efef0",
-      "icon-size.icon-xxxxxl": "dae7fa38fbb1d283f7233597a5ce50f0286c0b2b",
-      "spaces.space-sm": "88851d2f326c14a18ba0e48ab990eaa04a19d87f",
-      "spaces.space-md": "5acd0a77566877ab4979ac9c7d4a6921e3b82dc8",
-      "spaces.space-lg": "f7fe4d103917e973e5b12ce8d66b7a92af95c6ec",
-      "spaces.space-xl": "470fa05993034b2c54776d6c0184046edbcdd99d",
-      "spaces.space-xxl": "e3823673152747707f784275cc2ab3a4286e9126",
-      "spaces.space-xxxl": "45a646084b5530f8baa35d808352e64de70792bc",
-      "grid.breakpoint-size": "027f9ac89cf292d0f7991a29edb61a1666684c35",
-      "grid.columns": "e04f0b0c098e0ef233fdcf35c0bc88b99c252ad1",
-      "grid.gutters": "18235adf47fe8265339506b753369da6807154a3",
-      "grid.margins": "db813fe8ec479886805949e6d8248de3bcc07f87",
-      "spaces.space-xxs": "895936216ff563619381fc1f09487a5af4a4e979",
-      "spaces.space-xs": "41e820fa77090eed3fd5ed717285da9124db2eb1",
-      "grid.breakpoint": "2a4e6288f8c46edc6318edd90a3af8963996fcdf"
-    },
-    "$figmaModeId": "12306:5",
-    "$figmaCollectionId": "VariableCollectionId:10291:863",
-    "group": "responsive"
-  },
-  {
-    "id": "type-styles-onsi",
-    "name": "onsi",
-    "selectedTokenSets": {
-      "type-styles/onsi": "enabled"
-    },
-    "$figmaStyleReferences": {},
-    "$figmaVariableReferences": {
-      "font-family.font-family": "2d96f46093d61b03a7e576d15e30cf2bd50a7a40",
-      "font-weight.Display": "8a4ac435fe625e774cc2dda5de49c045efdad44b",
-      "font-weight.Headline": "91b955ddec011ffbf91939e2ec3a90673e9a521d",
-      "font-weight.Title": "9fba53016da1c0d56120237a043883d03a83248b",
-      "font-weight.Label": "984605c06b974e7120c57d20fb26a282aca6503e",
-      "font-weight.Body": "1537e56929e4058161c8b5158977dac1a0a20d63",
-      "font-weight.Caption": "64982d67065ecff7d2d600a022efd6f4b44ccba3"
-    },
-    "$figmaModeId": "12362:0",
-    "$figmaCollectionId": "VariableCollectionId:12362:6743",
-    "group": "type-styles"
-  },
-  {
     "id": "a9c78d3bfdab85829780dd2763641a2c0d89a131",
     "name": "onsi-light",
     "$figmaStyleReferences": {},
@@ -234,7 +30,6 @@
     "selectedTokenSets": {
       "type/core": "source",
       "primitives/core": "source",
-      "zurich/Light": "enabled",
       "type-styles/onsi": "enabled",
       "onsi/light": "enabled"
     },
@@ -248,9 +43,52 @@
       "type/core": "source",
       "primitives/core": "source",
       "onsi/dark": "enabled",
-      "zurich/Dark": "enabled",
       "type-styles/onsi": "enabled"
     },
     "group": "themes"
+  },
+  {
+    "id": "11cb164afdfc69c6eb886248c397a28af4c20075",
+    "name": "phone",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "responsive/phone": "enabled",
+      "dimensions/dimensions": "source",
+      "opacity/opacity": "source"
+    },
+    "group": "breakpoints"
+  },
+  {
+    "id": "faeeab62ff0d600c9e34e1bc61da0e1e714c1328",
+    "name": "tablet",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "responsive/tablet": "enabled",
+      "dimensions/dimensions": "source",
+      "opacity/opacity": "source"
+    },
+    "group": "breakpoints"
+  },
+  {
+    "id": "d8254480ff1386a4e0553e133a01c9accb90f245",
+    "name": "laptop",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "responsive/laptop": "enabled",
+      "dimensions/dimensions": "source",
+      "opacity/opacity": "source"
+    },
+    "group": "breakpoints"
+  },
+  {
+    "id": "0796c82b27133549c006c47654bc4fbc004cd920",
+    "name": "desktop",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "responsive/desktop": "enabled",
+      "dimensions/dimensions": "source",
+      "opacity/opacity": "source"
+    },
+    "group": "breakpoints"
   }
 ]
