@@ -25,7 +25,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "primitives/core": "source",
-      "onsi/light": "enabled"
+      "onsi/light": "source",
+      "zurich/light": "enabled"
     },
     "group": "themes"
   },
@@ -36,7 +37,8 @@
     "selectedTokenSets": {
       "type/core": "source",
       "primitives/core": "source",
-      "onsi/dark": "enabled"
+      "onsi/dark": "source",
+      "zurich/dark": "enabled"
     },
     "group": "themes"
   },
