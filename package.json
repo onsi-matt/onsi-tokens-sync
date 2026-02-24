@@ -4,5 +4,9 @@
   },
   "dependencies": {
     "@tokens-studio/sd-transforms": "^2.0.3"
+  },
+  "type": "module",
+  "scripts": {
+    "tokens": "node build-tokens.js" 
   }
 }

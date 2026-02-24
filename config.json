@@ -11,6 +11,16 @@
           "format": "css/variables"
         }
       ]
+    },
+    "flutter": {
+      "transformGroup": "flutter",
+      "buildPath": "build/",
+      "files": [
+        {
+          "destination": "style_dictionary.dart",
+          "format": "flutter/class.dart"
+        }
+      ]
     }
   }
 }
