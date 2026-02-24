@@ -7,6 +7,8 @@
   },
   "type": "module",
   "scripts": {
-    "tokens": "node build-tokens.js" 
+    "preclean": "rm -rf build && mkdir -p build/css build/flutter",
+    "clean": "rm -rf build",
+    "tokens": "npm run preclean && node build-tokens.js"
   }
 }
