@@ -4,10 +4,8 @@
     "name": "onsi-light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "type/core": "source",
       "onsi/light": "enabled",
-      "primitives/core": "source",
-      "type-styles/onsi": "enabled"
+      "primitives/core": "source"
     },
     "group": "themes"
   },
@@ -16,9 +14,7 @@
     "name": "onsi-dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "type/core": "source",
       "primitives/core": "source",
-      "type-styles/onsi": "enabled",
       "onsi/dark": "enabled"
     },
     "group": "themes"
@@ -28,9 +24,7 @@
     "name": "zurich-light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "type/core": "source",
       "primitives/core": "source",
-      "type-styles/onsi": "enabled",
       "onsi/light": "enabled"
     },
     "group": "themes"
@@ -42,9 +36,60 @@
     "selectedTokenSets": {
       "type/core": "source",
       "primitives/core": "source",
-      "onsi/dark": "enabled",
-      "type-styles/onsi": "enabled"
+      "onsi/dark": "enabled"
     },
     "group": "themes"
+  },
+  {
+    "id": "757fa3201d1e9e65c2a8e28c9190869dafffd43b",
+    "name": "phone",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "type/core": "source",
+      "type-styles/onsi": "enabled",
+      "responsive/phone": "enabled",
+      "dimensions/dimensions": "enabled",
+      "opacity/opacity": "enabled"
+    },
+    "group": "breakpoint"
+  },
+  {
+    "id": "bec1bd0a8ced8502bdf12f4a24fb0c87b856f576",
+    "name": "tablet",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "type/core": "source",
+      "type-styles/onsi": "enabled",
+      "responsive/tablet": "enabled",
+      "dimensions/dimensions": "enabled",
+      "opacity/opacity": "enabled"
+    },
+    "group": "breakpoint"
+  },
+  {
+    "id": "5e956cd347107e3e3eb2c1187c8e3abdb40e5bc2",
+    "name": "laptop",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "type/core": "source",
+      "type-styles/onsi": "enabled",
+      "responsive/laptop": "enabled",
+      "dimensions/dimensions": "enabled",
+      "opacity/opacity": "enabled"
+    },
+    "group": "breakpoint"
+  },
+  {
+    "id": "a2d8c34a1573739276eea19a5e312877460cfbfe",
+    "name": "desktop",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "type/core": "source",
+      "type-styles/onsi": "enabled",
+      "responsive/desktop": "enabled",
+      "dimensions/dimensions": "enabled",
+      "opacity/opacity": "enabled"
+    },
+    "group": "breakpoint"
   }
 ]
